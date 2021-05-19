@@ -32,13 +32,11 @@ Identify **two** types of translators that can turn high-level languages into ma
 
 What is the difference between an interpreter and compiler?
 > Answer: 
-> 
-|  Diferences             | 
-|-----------|-------------|
-|  **Interpreter translates** just one statement of the program at a time into a machine code | 
-|**Compiler** scan the entire program and translates the whole into a machine code
-|An **interpreter** takes very less time to analyze the source code. But the time to execute is much slower.
-|A **compiler** takes a lot of time to analyze the source code. But the execute time is much faster.
+> Diferences
+**Interpreter translates** just one statement of the program at a time into a machine code 
+**Compiler** scan the entire program and translates the whole into a machine code
+An **interpreter** takes very less time to analyze the source code. But the time to execute is much slower.
+A **compiler** takes a lot of time to analyze the source code. But the execute time is much faster.
 
 
 What is assembly languaje?
