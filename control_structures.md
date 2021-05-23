@@ -1,6 +1,7 @@
 
 
 # <center>  Control Structures 
+## Christian Adriel Rodriguez
 > ## If-else 
 >This Control Structure allows a program to follow alternative paths of execution, whether a condition is met or not.
 >
@@ -76,7 +77,15 @@ These structures are repetitive problems since their solution is to use a set of
  alt="drawing" width="300"/
 ><br>
 
+> # <center> What is the difference between the following control structures
 
+> ## If-else vs Switch.
+> The principal difference is that the **if-else** statement "selects the execution of the statements based upon the evaluation of the expression in **if** statements".
+> 
+> In **switch** statements "Selects the execution of the statement ofter acording to a keybard command.
+
+> ## Do-while vs while for.
+>The main difference is that while loop chec the condition before iteration of the loop. On the other hand, do-while, verifes the condition after the execution of the statement inside the loop.
 
 ## References
 
